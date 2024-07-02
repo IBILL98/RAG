@@ -1,0 +1,15 @@
+PyMuPDF
+transformers
+torch
+numpy
+tensorflow
+torch
+transformers
+openai
+nltk
+spacy
+sentence-transformers
+fastapi
+faiss-cpu
+llama-index-llms-groq
+pyyaml
